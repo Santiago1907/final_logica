@@ -97,6 +97,8 @@ public class Programa{
 				case 4: System.out.println();
 						raiznesisma();
 						break;
+				case 5: System.out.println("Salio del programa");
+						break;
 				default: System.out.println("Opcion no disponible");
 			}
 		}while(centinela!=5);
